@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Internet Bill",
+        "amount": 999.99
+    },
+    {
+        "name": "Food",
+        "amount": 250.0
+    },
+    {
+        "name": "Transport",
+        "amount": 100.0
+    }
+]
